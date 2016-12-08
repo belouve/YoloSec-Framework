@@ -21,6 +21,8 @@ A framework for doing security by the seat of your pants.  Assuming you're weari
 - A flat network is always a good idea
 - find /var/log* -mtime +1 -exec wipe -fr {} \; && wipe -fr /tmp* && wipe -fr ~/.bash_history
 - Can you really be far even as decided half as much to use go wish for that?
+- Hack Naked!  Execute recon or attacks from a computer without a firewall, antivirus, or other host and network protections.  Or attack and recon without clothing or covering.
+- Add cyber to everything. Yeah, it refers to cybernetics, but just add it to anything in security to make it sound kewl.
 - Linkedin is one of the weirdest dating sites.
 - Pimpin ain't easy if you're the CEO of backpage.
 - Drink, do drugs, and act like your boss is right next to you calling you a pussy for not taking that next shot (cause if you have a cool boss that's exactly what he's doing).
