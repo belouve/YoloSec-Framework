@@ -19,4 +19,4 @@ A framework for doing security by the seat of your pants.  Assuming you're weari
 - Pimpin ain't easy if you're the CEO of backpage.
 - Drink, do drugs, and act like your boss is right next to you calling you a pussy for not taking that next shot (cause if you have a cool boss that's exactly what he's doing).
 
-# #YOLO motherfuckers!
+# #YOLO !!!!
