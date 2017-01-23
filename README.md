@@ -15,7 +15,9 @@ A framework for doing security by the seat of your pants.  Assuming you're weari
 - Don't take yourself or others so seriously.  Remember this was a hobby before it became a career.
 - < obligatory fuck bitches, get money >
 - A flat network is always a good idea
+- Your password must contain one upper, one lower, and one special. But how do you enter 'cocaine-cannabis-MDMA'?
 - Linkedin is one of the weirdest dating sites.
+- Commit code with broken tests.  Passing tests is for nerds.
 - Pimpin ain't easy if you're the CEO of backpage.
 - Drink, do drugs, and act like your boss is right next to you calling you a pussy for not taking that next shot (cause if you have a cool boss that's exactly what he's doing).
 
